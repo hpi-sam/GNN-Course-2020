@@ -1,6 +1,7 @@
-# GNN-Slides
+# Topics
 - Lecture Materials
 - Reference lists
+- Group lists
 
 # Current Groups:
 - Tibor, Max, Tiago (tentative topic:?)
