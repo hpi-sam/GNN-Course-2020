@@ -4,5 +4,7 @@
 
 # Current Groups:
 - Tibor, Max, Tiago (tentative topic:?)
-- Henrik, Simon (tentative topic: drug network interactions)
+- Henrik and Simon (tentative topic: drug network interactions)
 - Bastian, Leo, Berkay (tentative topic: ?)
+- Mai and Validmar (tentative topic: Entity Linking prediction)
+
