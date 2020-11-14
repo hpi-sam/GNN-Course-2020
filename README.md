@@ -4,8 +4,9 @@
 - Group lists
 
 # Current Groups:
-- Tibor, Max, Tiago (tentative topic:?)
-- Henrik and Simon (tentative topic: drug network interactions)
-- Bastian, Leo, Berkay (tentative topic: ?)
-- Mai and Validmar (tentative topic: Entity Linking prediction)
+1- Tibor, Max, Tiago (tentative topic:?)
+2- Henrik and Simon (tentative topic: drug network interactions)
+3- Bastian, Leo, Berkay (tentative topic: ?)
+4- Mai and Validmar (tentative topic: Entity Linking prediction)
+5- Sassan (tentative: news comments recommendations)
 
